@@ -40,3 +40,12 @@ The project's dynamic and informative dashboards provide actionable insights for
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or raise an issue in the repository.
 
+## Dashboard Images
+
+<img width="1527" alt="m1" src="https://github.com/riteshrajsharma/cricket-world-cup-2022/assets/76512398/452cfbc1-98d3-4174-b7c3-51c71f92ccc5">
+<img width="1523" alt="m2" src="https://github.com/riteshrajsharma/cricket-world-cup-2022/assets/76512398/899013c2-ab8f-4d01-ba65-bc13c4004cae">
+<img width="1521" alt="m3" src="https://github.com/riteshrajsharma/cricket-world-cup-2022/assets/76512398/4586ce33-1ffe-40f3-a196-c68ced791674">
+
+
+
+
